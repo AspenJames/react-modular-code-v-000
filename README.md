@@ -105,7 +105,7 @@ called aliasing!
 
 ```js
 // src/Hogwarts.js
-import whoseHouse from './house.js'
+import whoseHouse from './houses/HagridsHouse.js'
 import ReactDOM from 'react-dom'
 
 render() {
